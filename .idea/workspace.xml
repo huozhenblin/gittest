@@ -62,7 +62,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Huo\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585539080293</updated>
       <workItem from="1585539081710" duration="538000" />
+      <workItem from="1585573771362" duration="623000" />
     </task>
     <servers />
   </component>
@@ -83,5 +84,9 @@
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
     <state x="941" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1067/2560.0.1280.720@0.0.1707.1067" timestamp="1585539247324" />
+    <state x="242" y="91" key="SettingsEditor" timestamp="1585574116173">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="242" y="91" key="SettingsEditor/0.0.1707.1067/2560.0.1280.720@0.0.1707.1067" timestamp="1585574116173" />
   </component>
 </project>
